@@ -17,7 +17,6 @@ import {
   FiBriefcase,
   FiAward,
   FiBookOpen,
-  FiShield,
   FiEye,
   FiChevronLeft,
   FiChevronRight,
@@ -468,7 +467,7 @@ function App() {
       </main>
 
       <footer className="footer">
-        <div className="container footer-inner"><div><strong>Kathirvel<span className="brand-dot">.</span></strong><span>IT Support &amp; Technology Professional</span></div><div>© 2026 Kathirvel M · Built with React</div><a href="#home" aria-label="Back to top">↑</a></div>
+        <div className="container footer-inner"><div><strong>Kathirvel<span className="brand-dot">.</span></strong><span>IT Support &amp; Technology Professional</span></div><div>© 2026 Kathirvel M</div><a href="#home" aria-label="Back to top">↑</a></div>
       </footer>
 
       {selectedCertificate && (
